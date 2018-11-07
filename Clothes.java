@@ -1,7 +1,7 @@
 package Clothes;
 
 public class Clothes{
-
+   ///
 	private String size;
 	private String color;
 
